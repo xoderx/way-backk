@@ -1,0 +1,8 @@
+node_modules
+.DS_Store
+dist
+dist-worker
+.dev.vars
+wrangler-typegen.d.ts
+.wrangler
+.bootstrap-complete
